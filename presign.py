@@ -18,9 +18,9 @@ key = "file1"
 
 # Self signed url parameters. ClientMethod should point at the desired boto3.client method.
 
-# ClientMethod = 'get_object'
+ClientMethod = 'get_object'
 # ClientMethod = 'list_buckets'
-ClientMethod = 'put_object'
+# ClientMethod = 'put_object'
 Params = {'Bucket': bucket,'Key': key}
 ExpiresIn = 3600
 
