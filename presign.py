@@ -5,7 +5,7 @@ from boto3.session import Session
 # Configuration Parameters
 aws_access_key_id="USER_KEY"
 aws_secret_access_key="SECRET_KEY"
-endpoint_url="http://IP_ADRESS:9020"
+endpoint_url="http://IP_ADDRESS:9020"
 signature_version='s3v4'
 connect_timeout=3 
 read_timeout=3
