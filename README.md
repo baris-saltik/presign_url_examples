@@ -1,1 +1,1 @@
-Presign URL examples for PowerScale S3 API
+Presigned URL examples for PowerScale S3 API
